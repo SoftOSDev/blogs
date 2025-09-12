@@ -113,7 +113,7 @@ gitalk:
   clientID: ''
   clientSecret: ''
 giscus: # https://giscus.app/zh-CN
-  enable: false # 是否启用 Giscus 评论系统
+  enable: true # 是否启用 Giscus 评论系统
   repo: 'SoftOSDev/blogs'
   repo_id: 'R_kgDOPrXKhg'
   category: 'Show and tell'
